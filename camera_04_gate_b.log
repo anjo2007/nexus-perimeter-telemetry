@@ -1,0 +1,20 @@
+# ==============================================================================
+# NEXUS DYNAMICS - GATE B PERIMETER SECURITY LOG (PRIMARY CRIME SCENE FEED)
+# SENSOR: CAM-04-GATE-B // DATE: 2026-10-02
+# ==============================================================================
+
+[01:14:00] GATE B STATUS: NIGHT MONITORING ACTIVE (OVERRIDE BYPASS READY)
+[01:15:22] SENSOR EVENT: Terminal B-304 VoIP channel opened to external gateway.
+[01:42:18] ANPR SENSOR TRIGGER: Vehicle ingress detected at Gate B barrier.
+           - License Plate Detected: KL-08-CC-4912
+           - Optical Match Confidence: 99.4%
+           - Vehicle Description: Black executive sedan (Kerala Thrissur RTO KL-08)
+           - Registered Owner: Senior Systems Engineer John Vance (Badge #9042)
+           - Frame snapshot captured without label: cam04_frame.png
+[01:45:12] VOIP CALL INTERCEPT: Direct call between caller and Dr. Elena Rostova recorded.
+           - Audio transcript archived to: phone_log.txt
+           - Acoustic cipher archive: stage2_vault.zip
+[01:47:50] SYSTEM EVENT: Dr. Elena Rostova workstation logged off unexpectedly.
+[01:50:00] PERIMETER QUARANTINE: Automated countdown initialized.
+
+NOTE: stage2_vault.zip is locked with the vehicle registration plate logged above (KL-08-CC-4912).

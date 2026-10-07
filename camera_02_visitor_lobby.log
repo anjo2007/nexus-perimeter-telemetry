@@ -1,0 +1,11 @@
+# ==============================================================================
+# NEXUS DYNAMICS - LOBBY ENTRANCE BIOMETRIC LOG (CAMERA 02)
+# SENSOR: CAM-02-LOBBY // DATE: 2026-10-01 TO 2026-10-02
+# ==============================================================================
+
+[22:04:11] SCAN PASS: Badge #5519 (Priya Sharma) - Turnstile 01
+[22:15:30] SCAN PASS: Badge #6102 (David Miller) - Turnstile 02
+[22:45:19] SCAN FAIL: Badge #0000 (Visitor - Expired Guest Pass) - Alert Cleared
+[23:10:02] SCAN PASS: Badge #9042 (John Vance) - Turnstile 01
+[23:55:40] SCAN PASS: Badge #1189 (Daniel Craig - Night Guard) - Turnstile 03
+[00:40:12] SYSTEM: Turnstile access restricted to Level 4+ credentials.

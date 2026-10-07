@@ -1,0 +1,13 @@
+# ==============================================================================
+# NEXUS DYNAMICS - GATE A VEHICLE INGRESS/EGRESS LOG
+# SENSOR: ANPR-OPTICAL-01 // DATE: 2026-10-01 TO 2026-10-02
+# ==============================================================================
+
+[2026-10-01 21:14:02] INGRESS  | PLATE: KL-07-BB-1120 | MODEL: White Honda City | BADGE: 7701 (Dr. Elena Rostova) | AUTH: GRANTED
+[2026-10-01 21:45:33] EGRESS   | PLATE: MH-12-AB-3391 | MODEL: Blue Hyundai i20 | BADGE: 8140 (Julian Rossi)       | AUTH: GRANTED
+[2026-10-01 22:30:19] INGRESS  | PLATE: KA-01-MJ-8802 | MODEL: Silver Swift     | BADGE: 4412 (Marcus Lin)         | AUTH: GRANTED
+[2026-10-01 23:12:44] EGRESS   | PLATE: DL-03-CC-5521 | MODEL: Grey Skoda Octavia| BADGE: 3044 (Sarah Chen)         | AUTH: GRANTED
+[2026-10-02 00:05:10] INGRESS  | PLATE: KL-08-FF-7714 | MODEL: Security Patrol   | BADGE: 1104 (Alexander Ward)     | AUTH: GRANTED
+[2026-10-02 00:55:22] EGRESS   | PLATE: KA-01-MJ-8802 | MODEL: Silver Swift     | BADGE: 4412 (Marcus Lin)         | AUTH: GRANTED
+
+[STATUS] Gate A secured by magnetic barrier at 01:00 AM IST. All subsequent night traffic directed to Gate B.
